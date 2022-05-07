@@ -52,6 +52,13 @@ npm run build
 npm run test:e2e # or `npm run test:e2e:ci` for headless testing
 ```
 
+### Run End-to-End Tests with [Playwright](https://playwright.dev/)
+
+```sh
+npm run test:pw # to run Playwright baseed tests
+npm run test:pws # to show results
+```
+
 ### Lint with [ESLint](https://eslint.org/)
 
 ```sh
